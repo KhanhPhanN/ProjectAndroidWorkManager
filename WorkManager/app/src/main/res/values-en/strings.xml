@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WorkManager</string>
+    <string name="today">Today</string>
+    <string name="tomorrow">Tomorrow</string>
+    <string name="previous">Previous</string>
+    <string name="date">Choose the date</string>
+    <string name="time">Choose the time</string>
+    <string name="subject">Subject</string>
+    <string name="content">Content</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="back">Back</string>
+    <string name="timeformat1">Wrong time format</string>
+    <string name="timeformat2">No hours are allowed to be greater than 24 or less than 0</string>
+    <string name="timeformat3">No minutes are allowed to be greater than 59 or less than 0</string>
+    <string name="dateformat1">The date is incorrect</string>
+    <string name="contentWrong">"You enter missing data "</string>
+    <string name="addJob">Add new job</string>
+    <string name="startthanend">The start time must not be greater than the end time</string>
+    <string name="jobdone">Work completed</string>
+</resources>

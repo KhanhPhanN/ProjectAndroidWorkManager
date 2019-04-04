@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">WorkManager</string>
+    <string name="today">Hôm nay</string>
+    <string name="tomorrow">Hôm sau</string>
+    <string name="previous">Hôm qua</string>
+    <string name="date">Chọn ngày</string>
+    <string name="time">Chọn thời gian</string>
+    <string name="subject">Chủ đề</string>
+    <string name="content">Nội dung</string>
+    <string name="save">Lưu</string>
+    <string name="cancel">Bỏ qua</string>
+    <string name="edit">Lưu chỉnh sửa</string>
+    <string name="delete">Xóa</string>
+    <string name="back">Quay lại</string>
+    <string name="timeformat1">Sai định dạng thời gian</string>
+    <string name="timeformat2">Giờ không được phép lớn hơn 24 hoặc nhỏ hơn 0</string>
+    <string name="timeformat3">Phút không được phép lớn hơn 59 hoặc nhỏ hơn 0</string>
+    <string name="dateformat1">Ngày tháng không đúng</string>
+    <string name="contentWrong">Bạn nhập thiếu dữ liệu</string>
+    <string name="addJob">Thêm công việc mới</string>
+    <string name="startthanend">Thời gian bắt đầu không được lớn hơn thời gian kết thúc</string>
+    <string name="jobdone">Đã hoàn thành</string>
+</resources>
